@@ -1,36 +1,36 @@
 {
-  "app_name": "Bab ERP",
-  "app_id": "com.hsmj.babhr",
-  "channel": "test",
-  "updated_at": "2026-09-10T17:12:00Z",
-  "platforms": {
-    "windows": {
-      "latest_version": "0.1.0",
-      "build_number": 1,
-      "release_date": "2026-09-10",
-      "mandatory": false,
-      "minimum_supported_version": "0.1.0",
-      "download_url": "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/bab-test-v0.1.0/BE_260910_v0.1.0.exe",
-      "sha256": "2c03e5ebf5b43097db9eca14b8bfd03209488a639a2a169dc10777a49640d1e0",
-      "file_size_bytes": 2095624,
-      "release_notes": [
-        "تحسينات عامة",
-        "تحديثات أمنية"
-      ]
-    },
-    "android": {
-      "latest_version": "0.1.0",
-      "build_number": 1,
-      "release_date": "2026-09-10",
-      "mandatory": false,
-      "minimum_supported_version": "0.1.0",
-      "download_url": "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/bab-test-v0.1.0/BE_260910_v0.1.0.apk",
-      "sha256": "33c8e32d35c8f6680efd0932f26c9f25e92a1683b056f6faabc1d4a9148b8f41",
-      "file_size_bytes": 4115971,
-      "release_notes": [
-        "تحسينات عامة",
-        "تحديثات أمنية"
-      ]
-    }
-  }
+    "app_name":  "Bab ERP",
+    "app_id":  "com.hsmj.babhr",
+    "channel":  "test",
+    "updated_at":  "2026-09-10T17:16:15Z",
+    "platforms":  {
+                      "windows":  {
+                                      "latest_version":  "0.1.0",
+                                      "build_number":  1,
+                                      "release_date":  "2026-09-10",
+                                      "mandatory":  false,
+                                      "minimum_supported_version":  "0.1.0",
+                                      "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/bab-test-v0.1.0/BE_260910_v0.1.0.exe",
+                                      "sha256":  "2c03e5ebf5b43097db9eca14b8bfd03209488a639a2a169dc10777a49640d1e0",
+                                      "file_size_bytes":  2095624,
+                                      "release_notes":  [
+                                                            "تحسينات عامة في استقرار وسرعة أداء النظام",
+                                                            "تحديثات أمنية وتوافقية"
+                                                        ]
+                                  },
+                      "android":  {
+                                      "latest_version":  "0.1.0",
+                                      "build_number":  1,
+                                      "release_date":  "2026-09-10",
+                                      "mandatory":  false,
+                                      "minimum_supported_version":  "0.1.0",
+                                      "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/bab-test-v0.1.0/BE_260910_v0.1.0.apk",
+                                      "sha256":  "33c8e32d35c8f6680efd0932f26c9f25e92a1683b056f6faabc1d4a9148b8f41",
+                                      "file_size_bytes":  4115971,
+                                      "release_notes":  [
+                                                            "تحسينات عامة في استقرار وسرعة أداء النظام",
+                                                            "تحديثات أمنية وتوافقية"
+                                                        ]
+                                  }
+                  }
 }
