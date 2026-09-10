@@ -2,7 +2,7 @@
     "app_name":  "Bab ERP",
     "app_id":  "com.hsmj.babhr",
     "channel":  "test",
-    "updated_at":  "2026-09-10T17:16:15Z",
+    "updated_at":  "2026-09-10T17:17:29Z",
     "platforms":  {
                       "windows":  {
                                       "latest_version":  "0.1.0",
