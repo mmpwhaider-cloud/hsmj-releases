@@ -1,36 +1,37 @@
 {
-    "app_name":  "Bab ERP",
-    "app_id":  "com.hsmj.babhr",
-    "channel":  "test",
-    "updated_at":  "2026-09-10T17:19:32Z",
-    "platforms":  {
-                      "windows":  {
-                                      "latest_version":  "0.1.0",
-                                      "build_number":  1,
-                                      "release_date":  "2026-09-10",
-                                      "mandatory":  false,
-                                      "minimum_supported_version":  "0.1.0",
-                                      "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/bab-test-v0.1.0/BE_260910_v0.1.0.exe",
-                                      "sha256":  "2c03e5ebf5b43097db9eca14b8bfd03209488a639a2a169dc10777a49640d1e0",
-                                      "file_size_bytes":  2095624,
-                                      "release_notes":  [
-                                                            "تحسينات عامة في استقرار وسرعة أداء النظام",
-                                                            "تحديثات أمنية وتوافقية"
-                                                        ]
-                                  },
-                      "android":  {
-                                      "latest_version":  "0.1.0",
-                                      "build_number":  1,
-                                      "release_date":  "2026-09-10",
-                                      "mandatory":  false,
-                                      "minimum_supported_version":  "0.1.0",
-                                      "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/bab-test-v0.1.0/BE_260910_v0.1.0.apk",
-                                      "sha256":  "33c8e32d35c8f6680efd0932f26c9f25e92a1683b056f6faabc1d4a9148b8f41",
-                                      "file_size_bytes":  4115971,
-                                      "release_notes":  [
-                                                            "تحسينات عامة في استقرار وسرعة أداء النظام",
-                                                            "تحديثات أمنية وتوافقية"
-                                                        ]
-                                  }
-                  }
+  "app_name": "Bab ERP",
+  "app_id": "com.hsmj.babhr",
+  "channel": "test",
+  "updated_at": "2026-09-12T12:58:24Z",
+  "platforms": {
+    "windows": {
+      "latest_version": "3.0.0",
+      "build_number": 3,
+      "release_date": "2026-09-12",
+      "mandatory": false,
+      "minimum_supported_version": "0.1.0",
+      "download_url": "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/bab-test-v3.0.0/BE_260912_v3.0.0.exe",
+      "sha256": "32195449cb1ee344d7ee6dba3233b47f3f189ffc39aa938ffba7c86fd8f21e52",
+      "file_size_bytes": 18051864,
+      "release_notes": [
+        "الإصدار الرسمي 3.0.0 لنظام Bab ERP",
+        "اعتماد الهوية البصرية والأيقونة الرسمية الجديدة للتطبيق",
+        "تحسينات عامة في استقرار وسرعة أداء النظام والمزامنة السحابية"
+      ]
+    },
+    "android": {
+      "latest_version": "0.1.0",
+      "build_number": 1,
+      "release_date": "2026-09-10",
+      "mandatory": false,
+      "minimum_supported_version": "0.1.0",
+      "download_url": "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/bab-test-v0.1.0/BE_260910_v0.1.0.apk",
+      "sha256": "33c8e32d35c8f6680efd0932f26c9f25e92a1683b056f6faabc1d4a9148b8f41",
+      "file_size_bytes": 4115971,
+      "release_notes": [
+        "تحسينات عامة في استقرار وسرعة أداء النظام",
+        "تحديثات أمنية وتوافقية"
+      ]
+    }
+  }
 }
