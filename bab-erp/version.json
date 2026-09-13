@@ -1,23 +1,26 @@
 {
-  "app_name": "Bab ERP",
-  "app_id": "com.hsmj.babhr",
-  "channel": "stable",
-  "updated_at": "2026-09-12T12:58:04Z",
-  "platforms": {
-    "windows": {
-      "latest_version": "3.0.0",
-      "build_number": 3,
-      "release_date": "2026-09-12",
-      "mandatory": false,
-      "minimum_supported_version": "3.0.0",
-      "download_url": "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/bab-v3.0.0/BE_260912_v3.0.0.exe",
-      "sha256": "32195449cb1ee344d7ee6dba3233b47f3f189ffc39aa938ffba7c86fd8f21e52",
-      "file_size_bytes": 18051864,
-      "release_notes": [
-        "الإصدار الرسمي 3.0.0 لنظام Bab ERP",
-        "اعتماد الهوية البصرية والأيقونة الرسمية الجديدة للتطبيق",
-        "تحسينات عامة في استقرار وسرعة أداء النظام والمزامنة السحابية"
-      ]
-    }
-  }
+    "app_name":  "Bab ERP",
+    "app_id":  "com.hsmj.babhr",
+    "channel":  "stable",
+    "updated_at":  "2026-09-13T23:37:30Z",
+    "platforms":  {
+                      "windows":  {
+                                      "latest_version":  "4.0.0",
+                                      "build_number":  4,
+                                      "release_date":  "2026-09-14",
+                                      "mandatory":  false,
+                                      "minimum_supported_version":  "3.0.0",
+                                      "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/bab-v4.0.0/BE_260914_v4.0.0.exe",
+                                      "sha256":  "86460e219770ed89a2a10d9974dfea136eb109fd65bac09957f5efb03696399c",
+                                      "file_size_bytes":  18055795,
+                                      "release_notes":  [
+                                                            "الإصدار الرسمي 4.0.0 لنظام Bab ERP",
+                                                            "تعزيز كامل لنظام العمل دون إنترنت (Local-First) وسرعة فائقة في فتح النوافذ والبحث",
+                                                            "اعتماد نظام المزامنة التراكمية (Delta Sync) لرفع وسحب التغييرات الجديدة فقط بدقة عالية",
+                                                            "دعم المزامنة التلقائية المتزامنة لعدة حواسيب تعمل في نفس الوقت مع حماية الأرصدة والمخزون",
+                                                            "معالجة ذكية لحالات انقطاع وضعف الإنترنت وتحديث الشاشات والقوائم المفتوحة تلقائياً",
+                                                            "إصلاحات شاملة في إدارة المستخدمين ومزامنة حذف المواد غير المستخدمة"
+                                                        ]
+                                  }
+                  }
 }
