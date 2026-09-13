@@ -2,7 +2,7 @@
     "app_name":  "Bab ERP",
     "app_id":  "com.hsmj.babhr",
     "channel":  "stable",
-    "updated_at":  "2026-09-13T23:37:30Z",
+    "updated_at":  "2026-09-13T23:39:36Z",
     "platforms":  {
                       "windows":  {
                                       "latest_version":  "4.0.0",
@@ -11,8 +11,8 @@
                                       "mandatory":  false,
                                       "minimum_supported_version":  "3.0.0",
                                       "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/bab-v4.0.0/BE_260914_v4.0.0.exe",
-                                      "sha256":  "86460e219770ed89a2a10d9974dfea136eb109fd65bac09957f5efb03696399c",
-                                      "file_size_bytes":  18055795,
+                                      "sha256":  "1582c300b385efdd90146b42e8fba353a676225da4486ddd11063ba6db4e5d85",
+                                      "file_size_bytes":  18055936,
                                       "release_notes":  [
                                                             "الإصدار الرسمي 4.0.0 لنظام Bab ERP",
                                                             "تعزيز كامل لنظام العمل دون إنترنت (Local-First) وسرعة فائقة في فتح النوافذ والبحث",
