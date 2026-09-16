@@ -2,19 +2,19 @@
     "app_name":  "Souq Al Agha",
     "app_id":  "com.souq_al_agha.app",
     "channel":  "stable",
-    "updated_at":  "2026-09-16T15:11:08Z",
-    "tag":  "souq-v2.6",
+    "updated_at":  "2026-09-16T15:18:43Z",
+    "tag":  "souq-v2.51",
     "platforms":  {
                       "windows":  {
-                                      "latest_version":  "2.6",
-                                      "build_number":  75,
+                                      "latest_version":  "2.51",
+                                      "build_number":  77,
                                       "release_date":  "2026-09-16",
                                       "mandatory":  false,
                                       "minimum_supported_version":  "2.40",
-                                      "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/souq-v2.6/SouqAlAgha_v2.6_09-16.exe",
-                                      "file_name":  "SouqAlAgha_v2.6_09-16.exe",
-                                      "sha256":  "87e9a82172b8f11d1a204a54420a5c65d67db1b381579727fa60e294d67be0fc",
-                                      "file_size_bytes":  18384030
+                                      "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/souq-v2.51/SouqAlAgha_v2.51_09-16.exe",
+                                      "file_name":  "SouqAlAgha_v2.51_09-16.exe",
+                                      "sha256":  "dce69ccdc54b6abb1ad422fa55c71c85e21bc513a720e2d2d46115d4c4e90146",
+                                      "file_size_bytes":  24120576
                                   }
                   }
 }
