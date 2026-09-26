@@ -1,20 +1,22 @@
 {
+  "schema": 2,
   "app_name": "Souq Al Agha",
   "app_id": "com.souq_al_agha.app",
   "channel": "stable",
-  "updated_at": "2026-09-25T13:07:41Z",
-  "tag": "souq-v4.7",
+  "tag": "souq-v4.9",
+  "updated_at": "2026-09-26T12:26:30.419947Z",
   "platforms": {
     "windows": {
-      "latest_version": "4.7",
-      "build_number": 88,
-      "release_date": "2026-09-25",
+      "latest_version": "4.9",
+      "build_number": 106,
+      "release_date": "2026-09-26",
       "mandatory": false,
-      "minimum_supported_version": "2.40",
-      "download_url": "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/souq-v4.7/SouqAlAgha_v4.7_09-25.exe",
-      "file_name": "SouqAlAgha_v4.7_09-25.exe",
-      "sha256": "c6eb301867277dc6cfa1ca90f3029fed3a37765f9bd72e4fc4da90d52d19f1ff",
-      "file_size_bytes": 18417443
+      "minimum_supported_version": "4.0",
+      "download_url": "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/souq-v4.9/SouqAlAgha_v4.9_09-26.exe",
+      "file_name": "SouqAlAgha_v4.9_09-26.exe",
+      "sha256": "ee4ff02b863710d7bd1ea0d0039e0691025aac2a29d7a742160c9029833db96f",
+      "file_size_bytes": 21630816,
+      "release_notes": "تحسين إشعارات مركز الإرسال وإلغاء النافذة المنبثقة عند وصول فاتورة جديدة، مع استمرار عداد العمليات الجديدة."
     }
   }
 }
