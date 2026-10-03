@@ -3,36 +3,36 @@
     "app_name":  "Souq Al Agha",
     "app_id":  "com.souq_al_agha.app",
     "channel":  "stable",
-    "updated_at":  "2026-10-02T15:17:06Z",
-    "tag":  "souq-v4.10",
+    "updated_at":  "2026-10-03T13:19:43Z",
+    "tag":  "souq-v4.12",
     "platforms":  {
                       "windows":  {
-                                      "latest_version":  "4.10",
-                                      "build_number":  107,
-                                      "release_date":  "2026-10-02",
+                                      "latest_version":  "4.12",
+                                      "build_number":  412,
+                                      "release_date":  "2026-10-03",
                                       "mandatory":  false,
                                       "minimum_supported_version":  "4.0",
-                                      "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/souq-v4.10/SouqAlAgha_v4.10_10-02.exe",
-                                      "file_name":  "SouqAlAgha_v4.10_10-02.exe",
-                                      "sha256":  "239474543e86c44f30ade699eac17f45103469c02395863b9e8a108b0f73b9d1",
-                                      "file_size_bytes":  20677032,
-                                      "release_notes":  "تحسين إشعارات مركز الإرسال وإلغاء النافذة المنبثقة عند وصول فاتورة جديدة، مع استمرار عداد العمليات الجديدة."
+                                      "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/souq-v4.12/SouqAlAgha_v4.12_10-03.exe",
+                                      "file_name":  "SouqAlAgha_v4.12_10-03.exe",
+                                      "sha256":  "f14faccd882eee6ec513bdd29f0f88a33ca702d97a6e639c7d94ccc0f34c1e68",
+                                      "file_size_bytes":  20677710,
+                                      "release_notes":  "اعتماد نظام الإصدار الموحد 4.11.0 (Build 411) ومعالجة فحص التحديثات."
                                   },
                       "android":  {
-                                      "latest_version":  "4.10",
-                                      "build_number":  107,
-                                      "release_date":  "2026-10-02",
+                                      "latest_version":  "4.12",
+                                      "build_number":  412,
+                                      "release_date":  "2026-10-03",
                                       "mandatory":  false,
                                       "download_url":  "https://play.google.com/store/apps/details?id=com.souq_al_agha.app",
-                                      "release_notes":  "تحسين إشعارات مركز الإرسال وإلغاء النافذة المنبثقة عند وصول فاتورة جديدة، مع استمرار عداد العمليات الجديدة."
+                                      "release_notes":  "اعتماد نظام الإصدار الموحد 4.11.0 (Build 411) ومعالجة فحص التحديثات."
                                   },
                       "ios":  {
-                                  "latest_version":  "4.9",
-                                  "build_number":  106,
-                                  "release_date":  "2026-09-26",
+                                  "latest_version":  "4.11",
+                                  "build_number":  411,
+                                  "release_date":  "2026-10-03",
                                   "mandatory":  false,
-                                  "download_url":  "https://apps.apple.com/app/souq-al-agha/idcom.souqalagha.app",
-                                  "release_notes":  "تحسين إشعارات مركز الإرسال وإلغاء النافذة المنبثقة عند وصول فاتورة جديدة، مع استمرار عداد العمليات الجديدة."
+                                  "download_url":  "https://apps.apple.com/app/id6812847034",
+                                  "release_notes":  "اعتماد نظام الإصدار الموحد 4.11.0 (Build 411) ومعالجة فحص التحديثات."
                               }
                   }
 }
