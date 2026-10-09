@@ -1,38 +1,38 @@
 {
-    "schema":  2,
-    "app_name":  "Souq Al Agha",
-    "app_id":  "com.souq_al_agha.app",
-    "channel":  "stable",
-    "updated_at":  "2026-10-07T21:17:13Z",
-    "tag":  "souq-v4.18",
-    "platforms":  {
-                      "windows":  {
-                                      "latest_version":  "4.18",
-                                      "build_number":  418,
-                                      "release_date":  "2026-10-08",
-                                      "mandatory":  false,
-                                      "minimum_supported_version":  "4.0",
-                                      "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/souq-v4.18/SouqAlAgha_v4.18_10-08.exe",
-                                      "file_name":  "SouqAlAgha_v4.18_10-08.exe",
-                                      "sha256":  "9965b746f7e42c56d6404dbdeb67562db64e932099db03ec03857f55591afa6c",
-                                      "file_size_bytes":  20690441,
-                                      "release_notes":  "اعتماد نظام الإصدار الموحد 4.11.0 (Build 411) ومعالجة فحص التحديثات."
-                                  },
-                      "android":  {
-                                      "latest_version":  "4.18",
-                                      "build_number":  418,
-                                      "release_date":  "2026-10-08",
-                                      "mandatory":  false,
-                                      "download_url":  "https://play.google.com/store/apps/details?id=com.souq_al_agha.app",
-                                      "release_notes":  "اعتماد نظام الإصدار الموحد 4.11.0 (Build 411) ومعالجة فحص التحديثات."
-                                  },
-                      "ios":  {
-                                  "latest_version":  "4.11",
-                                  "build_number":  411,
-                                  "release_date":  "2026-10-03",
-                                  "mandatory":  false,
-                                  "download_url":  "https://apps.apple.com/app/id6812847034",
-                                  "release_notes":  "اعتماد نظام الإصدار الموحد 4.11.0 (Build 411) ومعالجة فحص التحديثات."
-                              }
-                  }
+  "schema": 2,
+  "app_name": "Souq Al Agha",
+  "app_id": "com.souq_al_agha.app",
+  "channel": "stable",
+  "updated_at": "2026-10-09T13:31:54Z",
+  "tag": "souq-v4.20",
+  "platforms": {
+    "windows": {
+      "latest_version": "4.20",
+      "build_number": 420,
+      "release_date": "2026-10-09",
+      "mandatory": false,
+      "minimum_supported_version": "4.0",
+      "download_url": "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/souq-v4.20/SouqAlAgha_v4.20_10-09.exe",
+      "file_name": "SouqAlAgha_v4.20_10-09.exe",
+      "sha256": "09ece5ec4e149954b62baaee8f6c8f3ab3d42cd3c53774a098440fa65bace9b1",
+      "file_size_bytes": 20703232,
+      "release_notes": "اعتماد نظام الإصدار الموحد 4.11.0 (Build 411) ومعالجة فحص التحديثات."
+    },
+    "android": {
+      "latest_version": "4.20",
+      "build_number": 420,
+      "release_date": "2026-10-09",
+      "mandatory": false,
+      "download_url": "https://play.google.com/store/apps/details?id=com.souq_al_agha.app",
+      "release_notes": "اعتماد نظام الإصدار الموحد 4.11.0 (Build 411) ومعالجة فحص التحديثات."
+    },
+    "ios": {
+      "latest_version": "4.11",
+      "build_number": 411,
+      "release_date": "2026-10-03",
+      "mandatory": false,
+      "download_url": "https://apps.apple.com/app/id6812847034",
+      "release_notes": "اعتماد نظام الإصدار الموحد 4.11.0 (Build 411) ومعالجة فحص التحديثات."
+    }
+  }
 }
