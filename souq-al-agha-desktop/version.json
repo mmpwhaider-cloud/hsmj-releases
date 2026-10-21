@@ -3,20 +3,20 @@
   "app_id": "{E4A286F1-71B3-4D90-953B-8C26E93D0F7A}",
   "app_name": "Souq Al-Agha Desktop",
   "channel": "desktop-stable",
-  "tag": "desktop-v4.21",
-  "updated_at": "2026-10-19T04:55:54.788Z",
+  "tag": "desktop-v4.30",
+  "updated_at": "2026-10-21T22:18:39.850Z",
   "platforms": {
     "windows": {
       "platform": "windows",
-      "latest_version": "4.21",
-      "build_number": 421,
-      "download_url": "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/desktop-v4.21/SouqAlAghaDesktop_v4.21_10-19.exe",
-      "sha256": "ace974a1552168928d48c61bb7f9391e29c666e58e718494cb015b4af99ff368",
-      "file_size_bytes": 117315962,
+      "latest_version": "4.30",
+      "build_number": 430,
+      "download_url": "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/desktop-v4.30/SouqAlAghaDesktop_v4.30_10-22.exe",
+      "sha256": "fe30cab7f35e4ad4c960fa53f28fdc4a1ff741c88fddecac5049cf2943b37207",
+      "file_size_bytes": 117372377,
       "mandatory": false,
-      "file_name": "SouqAlAghaDesktop_v4.21_10-19.exe",
-      "release_date": "2026-10-19",
-      "release_notes": "تحديث تطبيق سطح المكتب 4.21 (2026-10-19)"
+      "file_name": "SouqAlAghaDesktop_v4.30_10-22.exe",
+      "release_date": "2026-10-22",
+      "release_notes": "تحديث تطبيق سطح المكتب 4.30 (2026-10-22)"
     }
   }
 }
