@@ -3,36 +3,35 @@
     "app_name":  "Souq Al Agha",
     "app_id":  "com.souq_al_agha.app",
     "channel":  "stable",
-    "updated_at":  "2026-10-13T11:34:04Z",
-    "tag":  "souq-v4.21",
+    "updated_at":  "2026-10-21T22:22:49Z",
+    "tag":  "souq-v4.30",
     "platforms":  {
                       "windows":  {
-                                      "latest_version":  "4.21",
-                                      "build_number":  421,
-                                      "release_date":  "2026-10-13",
+                                      "latest_version":  "4.30",
+                                      "build_number":  430,
+                                      "release_date":  "2026-10-22",
                                       "mandatory":  false,
                                       "minimum_supported_version":  "4.0",
-                                      "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/souq-v4.21/SouqAlAgha_v4.21_10-13.exe",
-                                      "file_name":  "SouqAlAgha_v4.21_10-13.exe",
-                                      "sha256":  "81daf3e090ade2accb6ef8b4330993bbeeb3ae4c8f7bacf8b1bb84158fade33f",
-                                      "file_size_bytes":  21131664,
-                                      "release_notes":  "اعتماد نظام الإصدار الموحد 4.11.0 (Build 411) ومعالجة فحص التحديثات."
+                                      "download_url":  "https://github.com/mmpwhaider-cloud/hsmj-releases/releases/download/souq-v4.30/SouqAlAgha_v4.30_10-22.exe",
+                                      "file_name":  "SouqAlAgha_v4.30_10-22.exe",
+                                      "sha256":  "1d96ac5916b0cc4f4d9d93a258b710a4b8e8e28ff451fad5bd088b30e43eb1b3",
+                                      "file_size_bytes":  20949575,
+                                      "release_notes":  "تهيئة إصدار 4.30 قبل النشر."
                                   },
                       "android":  {
-                                      "latest_version":  "4.21",
-                                      "build_number":  421,
-                                      "release_date":  "2026-10-13",
+                                      "latest_version":  "4.30",
+                                      "build_number":  430,
+                                      "release_date":  "2026-10-22",
                                       "mandatory":  false,
                                       "download_url":  "https://play.google.com/store/apps/details?id=com.souq_al_agha.app",
-                                      "release_notes":  "اعتماد نظام الإصدار الموحد 4.11.0 (Build 411) ومعالجة فحص التحديثات."
+                                      "release_notes":  "تهيئة إصدار 4.30 قبل النشر."
                                   },
                       "ios":  {
-                                  "latest_version":  "4.11",
-                                  "build_number":  411,
-                                  "release_date":  "2026-10-03",
+                                  "latest_version":  "4.30",
+                                  "build_number":  430,
+                                  "release_date":  "2026-10-21",
                                   "mandatory":  false,
-                                  "download_url":  "https://apps.apple.com/app/id6812847034",
-                                  "release_notes":  "اعتماد نظام الإصدار الموحد 4.11.0 (Build 411) ومعالجة فحص التحديثات."
+                                  "download_url":  "https://apps.apple.com/app/id6812847034"
                               }
                   }
 }
