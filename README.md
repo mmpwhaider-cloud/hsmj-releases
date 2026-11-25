@@ -8,6 +8,7 @@ Each product has **its own folder**. Do not mix app files at the repo root.
 |--------|---------|------------|
 | `bab-erp/` | Bab ERP | `bab-v*` |
 | `souq-al-agha/` | Souq Al Agha | `souq-v*` |
+| `bab-al-agha-hr/` | باب الاغا HR (privacy page only; Android is Play Store only) | - |
 
 ## Rules
 
